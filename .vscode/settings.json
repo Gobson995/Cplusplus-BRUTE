@@ -4,6 +4,12 @@
   "files.associations": {
     "iostream": "cpp",
     "ostream": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "limits": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "chrono": "cpp",
+    "span": "cpp"
   }
 }
